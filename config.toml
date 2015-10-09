@@ -1,0 +1,16 @@
+baseurl = "http://abirger.github.io/passive-acoustics"
+CanonifyUrls = true
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+languageCode = "en-us"
+[params]
+  Title = "Passive Acoustics"
+  Tagline = "Eavesdropping on Fish, Whales, and Other Sea Creatures"
+[params.Github]
+  Head = "master"
+  Url = "https://github.com/ioos/passive-acoustics"
+
+
+	
+ 
