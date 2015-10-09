@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title> </title>
-    <link>http://abirger.github.io/passive-acoustics/</link>
+    <link>http://ioos.github.io/passive-acoustics/</link>
     <language>en-us</language>
     <author></author>
     <rights>(C) 1</rights>
@@ -12,10 +12,10 @@
       
         <item>
           <title>ABOUT: Passive Acoustics</title>
-          <link>http://abirger.github.io/passive-acoustics/about/</link>
+          <link>http://ioos.github.io/passive-acoustics/about/</link>
           <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
           <author></author>
-          <guid>http://abirger.github.io/passive-acoustics/about/</guid>
+          <guid>http://ioos.github.io/passive-acoustics/about/</guid>
           <description>&lt;p&gt;&lt;em&gt;Passive acoustics is a rapidly emerging field of marine biology that since recently has received a lot of attention from fisheries scientists and managers. Passive Acoustic Monitoring (PAM) can serve as a useful monitoring tool that complements traditional survey methodologies (aerial, visual, trawl, etc.).&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;Many biologists that are interested in documenting marine animals and fish habitat and following their movements and behavior have used acoustic tags. However, because marine mammals and many fish species are highly adapted for producing and perceiving sounds in the ocean, these low-frequency (&amp;lt;10 kHz), species-specific sounds can be used as natural acoustic tags, and passive acoustic approach (monitoring sound-producing fish species with hydrophones) show great promise for gathering data in a noninvasive and continuous manner.&lt;/p&gt;
@@ -30,10 +30,10 @@
       
         <item>
           <title>A Metadata Convention for Passive Acoustic Recordings</title>
-          <link>http://abirger.github.io/passive-acoustics/pa_metadata_convention/</link>
+          <link>http://ioos.github.io/passive-acoustics/pa_metadata_convention/</link>
           <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
           <author></author>
-          <guid>http://abirger.github.io/passive-acoustics/pa_metadata_convention/</guid>
+          <guid>http://ioos.github.io/passive-acoustics/pa_metadata_convention/</guid>
           <description>
 
 &lt;p&gt;&lt;em&gt;The objective of this document is to present metadata that supports the mission of the National Oceanic and Atmospheric Administration (NOAA) for acquisition, archiving, and dissemination of ocean passive acoustic data.&lt;/em&gt;&lt;/p&gt;
