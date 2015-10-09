@@ -4,7 +4,7 @@ type = "post"
 draft = false
 sidebar = true
 title = "A Metadata Convention for Passive Acoustic Recordings"
-
+date = 2015-10-09T00:00:00Z
 +++
 
 _The objective of this document is to present metadata that supports the mission of the National Oceanic and Atmospheric Administration (NOAA) for acquisition, archiving, and dissemination of ocean passive acoustic data._
