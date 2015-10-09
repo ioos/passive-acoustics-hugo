@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://abirger.github.io/passive-acoustics/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://abirger.github.io/passive-acoustics/about/</loc>
+  </url>
+  
+  <url>
+    <loc>http://abirger.github.io/passive-acoustics/pa_metadata_convention/</loc>
+  </url>
+  
+</urlset>
